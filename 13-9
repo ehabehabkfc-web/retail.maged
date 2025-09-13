@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://i.postimg.cc/kG7G4G06/tshirt.png"
+  },
+  {
+    "name": "Modern Coffee Mug",
+    "price": 15.00,
+    "description": "A beautiful ceramic mug with a minimalist design. Holds 12oz of your favorite beverage.",
+    "imageUrl": "https://i.postimg.cc/zX7qg6fL/mug.png"
+  },
+  {
+    "name": "Leather Wallet",
+    "price": 49.99,
+    "description": "A high-quality genuine leather wallet with multiple card slots.",
+    "imageUrl": "https://i.postimg.cc/d1wL8L8q/wallet.png"
+  }
+]
