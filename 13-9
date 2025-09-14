@@ -9,12 +9,12 @@
     "name": "Modern Coffee Mug",
     "price": 15.00,
     "description": "A beautiful ceramic mug with a minimalist design. Holds 12oz of your favorite beverage.",
-    "imageUrl": "https://i.postimg.cc/zX7qg6fL/mug.png"
+    "imageUrl": "https://res.cloudinary.com/dlbd6wudf/image/upload/v1757803392/samples/landscapes/architecture-signs.jpg"
   },
   {
     "name": "Leather Wallet",
     "price": 49.99,
     "description": "A high-quality genuine leather wallet with multiple card slots.",
-    "imageUrl": "https://i.postimg.cc/d1wL8L8q/wallet.png"
+    "imageUrl": "https://res.cloudinary.com/dlbd6wudf/image/upload/v1757803392/samples/people/boy-snow-hoodie.jpg"
   }
 ]
