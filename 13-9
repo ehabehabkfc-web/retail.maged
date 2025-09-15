@@ -7,6 +7,22 @@
     "imageUrl": "https://res.cloudinary.com/..."
   },
 
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
 
   {
     "id": "prod_002",
@@ -15,6 +31,68 @@
     "description": "A beautiful ceramic mug with a minimalist design.",
     "imageUrl": "https://res.cloudinary.com/..."
   },
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
+
+{
+    "id": "prod_001",
+    "name": "Classic T-Shirt",
+    "price": 25.50,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/..."
+  },
+
 
 
   {
