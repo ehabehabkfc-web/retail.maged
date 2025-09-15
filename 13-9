@@ -1,20 +1,31 @@
 [
+
   {
     "name": "Classic T-Shirt",
     "price": 25.50,
     "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
     "imageUrl": "https://res.cloudinary.com/dlbd6wudf/image/upload/v1757885301/2_zqwzf3.jpg"
   },
+
+ {
+    "name": "Classic T-Shirt",
+    "price": 15.5,
+    "description": "A comfortable and stylish 100% cotton t-shirt. Perfect for everyday wear.",
+    "imageUrl": "https://res.cloudinary.com/dlbd6wudf/image/upload/v1757885301/2_zqwzf3.jpg"
+  },
+
   {
     "name": "Modern Coffee Mug",
     "price": 15.00,
     "description": "A beautiful ceramic mug with a minimalist design. Holds 12oz of your favorite beverage.",
     "imageUrl": "https://res.cloudinary.com/dlbd6wudf/image/upload/v1757803393/samples/food/spices.jpg"
   },
+
   {
     "name": "Leather Wallet",
     "price": 49.99,
     "description": "A high-quality genuine leather wallet with multiple card slots.",
     "imageUrl": "https://res.cloudinary.com/dlbd6wudf/image/upload/v1757923699/english_goqznd.png"
   }
+
 ]
